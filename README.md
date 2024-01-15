@@ -1,3 +1,3 @@
 # JS
 
-#This repo is for javascript code 
+This repo is for javascript code!
